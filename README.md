@@ -16,6 +16,10 @@ https://zijian-zou.shinyapps.io/hw03/
 - ggplot2  
 - dplyr  
 
+## Data Source
+Dataset sourced from Kaggle: "Top 100 Most Streamed Songs on Spotify", including audio features such as energy, danceability, tempo, and valence.
+(https://www.kaggle.com/datasets/pavan9065/top-100-most-streamed-songs-on-spotify)
+
 ## Insights
 - Song length shows a slight decreasing trend over time  
 - Most other audio features remain relatively stable  
