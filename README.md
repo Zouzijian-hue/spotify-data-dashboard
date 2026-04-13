@@ -24,3 +24,11 @@ https://zijian-zou.shinyapps.io/hw03/
 - Improve UI/UX  
 - Add more datasets  
 - Expand feature analysis  
+
+## Screenshots
+
+### Overview (All Genres)
+![Overview](screenshot1.jpg)
+
+### Genre Filtering Example (Pop)
+![Genre](screenshot2.jpg)
